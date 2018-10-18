@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Console;
 
 namespace HelloWorld //이것은 네임스페이스이고 이름은 HelloWorld입니다.
 {
