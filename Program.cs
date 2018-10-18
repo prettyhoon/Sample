@@ -11,6 +11,7 @@ namespace HelloWorld //이것은 네임스페이스이고 이름은 HelloWorld�
             if (args.Length == 0)
             {
                 System.Console.WriteLine("HelloWorld  이름"); 
+	    System.Console.WriteLine("Hi");
                 System.Console.ReadKey(); // 콘솔에서 키를 받기위해 대기
                 return ;
               
